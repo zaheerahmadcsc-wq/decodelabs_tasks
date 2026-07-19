@@ -1,4 +1,4 @@
-decodelabs_tasks_1
+ecodelabs_tasks_1
 TO-DO-LIST-APP-PYTHON-PROJECT-1-INTERNSHIP
 Description
 A simple command-line To-Do List application built using Python. Users can add, view, and remove tasks.
