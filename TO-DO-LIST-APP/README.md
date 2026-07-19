@@ -1,32 +1,20 @@
-tasks = []
+decodelabs_tasks_1
+TO-DO-LIST-APP-PYTHON-PROJECT-1-INTERNSHIP
+Description
+A simple command-line To-Do List application built using Python. Users can add, view, and remove tasks.
 
-while True:
-    print("\n===== TO-DO LIST =====")
-    print("1. Add Task")
-    print("2. View Tasks")
-    print("3. Exit")
+Features
+Add tasks
+View tasks
+Remove completed tasks
+Simple and user-friendly interface
+Technologies Used
+Python 3
+How to Run
+Download the project files.
+Open terminal in the project folder.
+Run:
+python todo.py
 
-    choice = input("Enter your choice: ")
-
-    if choice == "1":
-        task = input("Enter your task: ")
-        tasks.append(task)
-        print("✅ Task added successfully!")
-
-    elif choice == "2":
-        if len(tasks) == 0:
-            print("No tasks available.")
-        else:
-            print("\nYour Tasks:")
-            for i, task in enumerate(tasks, start=1):
-                print(f"{i}. {task}")
-
-    elif choice == "3":
-        print("Goodbye!")
-        break
-
-    else:
-        print("Invalid choice. Please try again.")
-
-                
-    
+Author
+Zaheer Ahmad
