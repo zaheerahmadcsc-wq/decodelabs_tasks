@@ -1,4 +1,4 @@
-e# To-Do List App (Python Project)
+To-Do List App (Python Project)
 
 ## Project Overview
 
@@ -81,4 +81,3 @@ BCA 2nd Year Student
 
 ## Internship Project
 
-Developed as part of a Python Programming Internship.
